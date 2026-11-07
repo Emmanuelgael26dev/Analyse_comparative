@@ -41,6 +41,7 @@ Un article en rupture de stock ou sans prix exploitable n'est jamais retenu comm
 .
 ├── Analyse_comparative.py       # programme principal
 ├── requirements.txt             # dépendances
+├── .gitignore                   # fichiers exclus de Git (venv, caches, fichiers temporaires)
 ├── README.md
 ├── donnees/                     # données fournies pour l'exercice
 │   ├── catalogue_reference.csv
@@ -64,8 +65,8 @@ Les fichiers de données peuvent aussi être placés directement à côté du sc
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<Emmanuelgael26dev>/<Analyse_comparative>.git
-cd <Analyse_comparative>
+git clone https://github.com/<votre-compte>/<nom-du-depot>.git
+cd <nom-du-depot>
 
 # 2. (Recommandé) créer un environnement virtuel
 python -m venv venv
