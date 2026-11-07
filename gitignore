@@ -1,0 +1,37 @@
+# ---------- Environnements virtuels Python ----------
+venv/
+.venv/
+env/
+ENV/
+
+# ---------- Fichiers générés par Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---------- Packaging / build ----------
+build/
+dist/
+*.egg-info/
+
+# ---------- Variables d'environnement et secrets ----------
+.env
+.env.*
+
+# ---------- Éditeurs ----------
+.vscode/
+.idea/
+*.swp
+
+# ---------- Fichiers temporaires Excel / Office (créés quand un .xlsx est ouvert) ----------
+~$*
+.~lock.*
+
+# ---------- Fichiers système ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

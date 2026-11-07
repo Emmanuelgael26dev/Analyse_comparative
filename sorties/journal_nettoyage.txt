@@ -1,0 +1,57 @@
+JOURNAL DE NETTOYAGE
+====================
+18 problème(s) repéré(s) et traité(s)
+
+MARCHÉ LAGUNE
+-------------
+* BOM UTF-8 au début du fichier
+    -> lecture en utf-8-sig
+* ML-1105 : espaces superflus et minuscules «   souris sans fil logitech m185  »
+    -> libellé nettoyé
+* ML-1119 « ECRAN SAMSUNG 24" » : prix inutilisable (« Prix sur demande »)
+    -> offre conservée mais sans prix exploitable
+* ML-1168 « MIXEUR MOULINEX 1.5L » : prix inutilisable (« vide »)
+    -> offre conservée mais sans prix exploitable
+* lignes en double : ML-1000, ML-1147
+    -> doublons supprimés
+* 26 prix écrits en texte (« 102 900 FCFA »)
+    -> convertis en entiers
+* note_clients avec virgule décimale
+    -> champ non utilisé par l'analyse demandée
+* 6 article(s) en rupture : SAMSUNG GALAXY A15 (128GB), SAMSUNG GALAXY A55 (256GB), ITEL A70 64GB, PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB, TV HISENSE 32", MIXEUR MOULINEX 1.5L
+    -> conservés mais jamais retenus comme « le moins cher »
+
+BAOBAB SHOP
+-----------
+* BB27999 « Philips Steam Iron » : amount = null
+    -> offre conservée mais sans prix exploitable
+* titres en anglais, ordre des mots différent, parfois sans marque
+    -> traité au rapprochement
+* 3 article(s) en rupture : Galaxy A55 256GB - Samsung, Logitech M185 Wireless Mouse, Hisense Air Conditioner 1.5HP
+    -> conservés mais jamais retenus comme « le moins cher »
+
+COMPTOIR IVOIRE
+---------------
+* titre en ligne 1, en-têtes en ligne 3
+    -> en-têtes repérés automatiquement
+* CI216 « Clim LG 1CV » : prix enregistré en texte « 279 300 » (espace insécable)
+    -> converti en nombre : 279 300 FCFA
+* noms abrégés ou fautifs (« Frigo », « Clim », « DD externe », « Samsun »)
+    -> traité au rapprochement
+* 2 article(s) en rupture : TV Samsung 43", Ventilo Binatone 16"
+    -> conservés mais jamais retenus comme « le moins cher »
+
+HISTORIQUE
+----------
+* 20876 lignes contrôlées (dates, enseignes, produits, prix, doublons)
+    -> aucune anomalie, aucun traitement
+
+RAPPROCHEMENT
+-------------
+* Comptoir Ivoire CI200 : « samsun » pour « samsung »
+    -> faute tolérée, rapproché de P01 - Samsung Galaxy A15 128 Go
+
+PRIX
+----
+* Marché Lagune ML-1021 « TECNO SPARK 20 - 128GB » : prix 779 000 FCFA aberrant (historique récent : 78 500 FCFA)
+    -> zéro en trop probable, remplacé par 77 900 FCFA

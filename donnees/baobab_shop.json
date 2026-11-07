@@ -1,0 +1,398 @@
+{
+  "shop": "Baobab Shop",
+  "generated_at": "2026-10-31T23:00:00Z",
+  "currency": "XOF",
+  "count": 26,
+  "items": [
+    {
+      "sku": "BB01412",
+      "title": "Galaxy A15 128GB - Samsung",
+      "pricing": {
+        "amount": 102500,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 5,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.5,
+        "count": 475
+      }
+    },
+    {
+      "sku": "BB02609",
+      "title": "Galaxy A25 128GB - Samsung",
+      "pricing": {
+        "amount": 140500,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 60,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.69,
+        "count": 181
+      }
+    },
+    {
+      "sku": "BB03433",
+      "title": "Galaxy A55 256GB - Samsung",
+      "pricing": {
+        "amount": 273800,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 0,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.96,
+        "count": 539
+      }
+    },
+    {
+      "sku": "BB04915",
+      "title": "Spark 20 128GB - Tecno",
+      "pricing": {
+        "amount": 73500,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 20,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.59,
+        "count": 868
+      }
+    },
+    {
+      "sku": "BB05319",
+      "title": "Camon 30 256GB - Tecno",
+      "pricing": {
+        "amount": 133900,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 5,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.82,
+        "count": 899
+      }
+    },
+    {
+      "sku": "BB06565",
+      "title": "Hot 40i 128GB - Infinix",
+      "pricing": {
+        "amount": 68000,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 35,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.89,
+        "count": 802
+      }
+    },
+    {
+      "sku": "BB07953",
+      "title": "Note 40 256GB - Infinix",
+      "pricing": {
+        "amount": 131200,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 60,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 3.51,
+        "count": 27
+      }
+    },
+    {
+      "sku": "BB09460",
+      "title": "iPhone 13 128GB - Apple",
+      "pricing": {
+        "amount": 417200,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 60,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.8,
+        "count": 703
+      }
+    },
+    {
+      "sku": "BB10686",
+      "title": "Redmi Note 13 128GB - Xiaomi",
+      "pricing": {
+        "amount": 132600,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 60,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 3.57,
+        "count": 635
+      }
+    },
+    {
+      "sku": "BB11833",
+      "title": "HP Laptop 250 G9 (i5, 8GB, 512GB SSD)",
+      "pricing": {
+        "amount": 354200,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 8,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 4.48,
+        "count": 748
+      }
+    },
+    {
+      "sku": "BB12319",
+      "title": "Lenovo IdeaPad 3 (i3, 8GB, 256GB SSD)",
+      "pricing": {
+        "amount": 298200,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 20,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.16,
+        "count": 686
+      }
+    },
+    {
+      "sku": "BB14669",
+      "title": "SanDisk Ultra USB 64GB",
+      "pricing": {
+        "amount": 5800,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 5,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.53,
+        "count": 98
+      }
+    },
+    {
+      "sku": "BB15546",
+      "title": "Seagate Expansion 1TB",
+      "pricing": {
+        "amount": 36800,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 5,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.36,
+        "count": 777
+      }
+    },
+    {
+      "sku": "BB16464",
+      "title": "Logitech M185 Wireless Mouse",
+      "pricing": {
+        "amount": 8700,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 0,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.3,
+        "count": 108
+      }
+    },
+    {
+      "sku": "BB17618",
+      "title": "HP DeskJet 2720e Printer",
+      "pricing": {
+        "amount": 44200,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 8,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.2,
+        "count": 65
+      }
+    },
+    {
+      "sku": "BB18398",
+      "title": "TP-Link Archer C6 AC1200",
+      "pricing": {
+        "amount": 27300,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 8,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.64,
+        "count": 64
+      }
+    },
+    {
+      "sku": "BB19114",
+      "title": "Samsung 24\" Monitor",
+      "pricing": {
+        "amount": 89300,
+        "currency": "XOF",
+        "delivery_fee": 1500
+      },
+      "stock": 12,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.9,
+        "count": 15
+      }
+    },
+    {
+      "sku": "BB20158",
+      "title": "Hisense Fridge 205L",
+      "pricing": {
+        "amount": 180500,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 3,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.24,
+        "count": 125
+      }
+    },
+    {
+      "sku": "BB22196",
+      "title": "Samsung 43\" Crystal UHD TV",
+      "pricing": {
+        "amount": 244400,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 35,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 4.18,
+        "count": 878
+      }
+    },
+    {
+      "sku": "BB23458",
+      "title": "Hisense 32\" TV",
+      "pricing": {
+        "amount": 93500,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 8,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.23,
+        "count": 670
+      }
+    },
+    {
+      "sku": "BB24831",
+      "title": "LG Air Conditioner 1HP",
+      "pricing": {
+        "amount": 253300,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 20,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 4.77,
+        "count": 323
+      }
+    },
+    {
+      "sku": "BB26722",
+      "title": "Moulinex Blender 1.5L",
+      "pricing": {
+        "amount": 28400,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 5,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 3.99,
+        "count": 692
+      }
+    },
+    {
+      "sku": "BB27999",
+      "title": "Philips Steam Iron",
+      "pricing": {
+        "amount": null,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 3,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 3.84,
+        "count": 513
+      }
+    },
+    {
+      "sku": "BB28797",
+      "title": "Samsung Microwave 23L",
+      "pricing": {
+        "amount": 62900,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 8,
+      "seller": "Baobab Shop",
+      "rating": {
+        "average": 3.7,
+        "count": 836
+      }
+    },
+    {
+      "sku": "BB29464",
+      "title": "Electric Kettle 1.7L",
+      "pricing": {
+        "amount": 9100,
+        "currency": "XOF",
+        "delivery_fee": 2500
+      },
+      "stock": 3,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 4.42,
+        "count": 899
+      }
+    },
+    {
+      "sku": "BB30124",
+      "title": "Hisense Air Conditioner 1.5HP",
+      "pricing": {
+        "amount": 287100,
+        "currency": "XOF",
+        "delivery_fee": 0
+      },
+      "stock": 0,
+      "seller": "Partenaire vérifié",
+      "rating": {
+        "average": 3.76,
+        "count": 744
+      }
+    }
+  ]
+}

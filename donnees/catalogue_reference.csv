@@ -1,0 +1,31 @@
+produit_id,nom,categorie,marque
+P01,Samsung Galaxy A15 128 Go,Smartphone,Samsung
+P02,Samsung Galaxy A25 128 Go,Smartphone,Samsung
+P03,Samsung Galaxy A55 256 Go,Smartphone,Samsung
+P04,Tecno Spark 20 128 Go,Smartphone,Tecno
+P05,Tecno Camon 30 256 Go,Smartphone,Tecno
+P06,Infinix Hot 40i 128 Go,Smartphone,Infinix
+P07,Infinix Note 40 256 Go,Smartphone,Infinix
+P08,Itel A70 64 Go,Smartphone,Itel
+P09,Apple iPhone 13 128 Go,Smartphone,Apple
+P10,Xiaomi Redmi Note 13 128 Go,Smartphone,Xiaomi
+P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,HP
+P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,Lenovo
+P13,Dell Inspiron 15 Core i5 16 Go 512 Go,Informatique,Dell
+P14,Clé USB SanDisk 64 Go,Informatique,SanDisk
+P15,Disque dur externe Seagate 1 To,Informatique,Seagate
+P16,Souris sans fil Logitech M185,Informatique,Logitech
+P17,Imprimante HP DeskJet 2720e,Informatique,HP
+P18,Routeur TP-Link Archer C6,Informatique,TP-Link
+P19,Écran Samsung 24 pouces,Informatique,Samsung
+P20,Réfrigérateur Hisense 205 L,Électroménager,Hisense
+P21,Congélateur Nasco 200 L,Électroménager,Nasco
+P22,TV Samsung 43 pouces Crystal UHD,Électroménager,Samsung
+P23,TV Hisense 32 pouces,Électroménager,Hisense
+P24,Climatiseur LG 1 CV,Électroménager,LG
+P25,Ventilateur sur pied Binatone 16 pouces,Électroménager,Binatone
+P26,"Mixeur Moulinex 1,5 L",Électroménager,Moulinex
+P27,Fer à repasser Philips,Électroménager,Philips
+P28,Micro-ondes Samsung 23 L,Électroménager,Samsung
+P29,"Bouilloire électrique 1,7 L",Électroménager,Binatone
+P30,"Climatiseur Hisense 1,5 CV",Électroménager,Hisense
